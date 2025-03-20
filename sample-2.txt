@@ -1,1 +1,3 @@
 file sample
+
+ini adalah file sample kedua yang dibuat langsung melalui github
